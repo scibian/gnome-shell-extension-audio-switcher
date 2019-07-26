@@ -1,0 +1,14 @@
+Source: gnome-shell-extension-audio-switcher
+Section: gnome
+Priority: optional
+Maintainer: Brice Milliat <brice.milliat@edf.fr>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.8
+Homepage: https://extensions.gnome.org/extension/1092/audio-switcher/
+
+Package: gnome-shell-extension-audio-switcher
+Architecture: all
+Depends: gnome-shell (>= 3.26), ${misc:Depends}
+Recommends: gnome-tweak-tool
+Description: GNOME Shell Audio Switcher
+ This gnome-shell extension allows users to select audio input aud output.
