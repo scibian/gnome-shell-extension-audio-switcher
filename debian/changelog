@@ -1,0 +1,5 @@
+gnome-shell-extension-audio-switcher (2-1sci8u1) scibian8; urgency=medium
+
+  * Initial release for scibian 8
+
+ -- Brice Milliat <f83078@bmc9vm.atlas.edf.fr>  Thu, 06 Jun 2019 11:41:14 +0200

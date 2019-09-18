@@ -1,0 +1,13 @@
+Source: gnome-shell-extension-audio-switcher
+Section: gnome
+Priority: optional
+Maintainer: Brice Milliat <f83078@bmc9vm.atlas.edf.fr>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.5
+Homepage: https://extensions.gnome.org/extension/1092/audio-switcher/
+
+Package: gnome-shell-extension-audio-switcher
+Architecture: all
+Depends: gnome-shell (>= 3.10.0), ${misc:Depends}
+Recommends: gnome-tweak-tool
+Description: GNOME Shell Audio Switcher
